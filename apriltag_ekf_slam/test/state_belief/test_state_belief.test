@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <test test-name="test_state_belief"
+        pkg="apriltag_ekf_slam"
+        type="test_state_belief"/>
+</launch>

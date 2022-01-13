@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <test test-name="test_apriltag_ekf_slam" pkg="apriltag_ekf_slam" type="test_apriltag_ekf_slam"/>
+</launch>

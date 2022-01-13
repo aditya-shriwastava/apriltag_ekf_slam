@@ -1,0 +1,24 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- tf2_geometry_msgs
+- catkin
+- roscpp
+- message_runtime
+- sensor_msgs
+- cmake_modules
+- geometry_msgs
+- tf2_ros
+- message_generation
+- cv_bridge
+- tf2
+description: TODO
+license: TODO
+maintainers: Aditya Shriwastava <adityashriwastava7@gmail.com>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''
